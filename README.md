@@ -4,6 +4,10 @@ Atelier Hands On Oracle Live sur les nouveautés Oracle 18, 19 et 21 pour les d�
 
 Liste des nouveautés: https://apex.oracle.com/database-features/
 
+Data-driven future: 
+https://oracle.github.io/learning-library/data-management-library/database/21c/fundamentals/workshops/freetier/index.html
+
+
 New features PL/SQL: https://docs.oracle.com/en/database/oracle/oracle-database/21/lnpls/release-changes.html#GUID-2BA23846-37D0-4AFF-8150-DB9308D5265D
 
 Nouveautés intéressantes:
@@ -16,6 +20,12 @@ Nouveautés intéressantes:
   - https://livesql.oracle.com/apex/livesql/file/content_HT1O85E4BHSBWN93G1B3M8SI2.html
   - Overflow truncate with count https://livesql.oracle.com/apex/livesql/file/content_H6A09UO3Z3J223PH2SCISBLHV.html
 - Fonctions polymorphiques (avancé): https://livesql.oracle.com/apex/livesql/file/content_J4OM4FWPRB91T9RVL8D2ID2QF.html
+
+Block chain tables: https://oracle-base.com/articles/21c/blockchain-tables-21c
+
+Execute Javascript code inside Oracle DB: https://medium.com/graalvm/mle-executing-javascript-in-oracle-database-c545feb1a010
+
+
 
 Other features:
 - Sequence dynamic size caching : https://apex.oracle.com/pls/apex/features/r/dbfeatures/features?feature_id=1565
